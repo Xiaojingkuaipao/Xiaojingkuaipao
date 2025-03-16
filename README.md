@@ -5,7 +5,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Xiaojingkuaipao&label=Profile%20views&color=0e75b6&style=flat" alt="Xiaojingkuaipao" /> 
  <a href="https://github.com/Xiaojingkuaipao"><img src="https://img.shields.io/badge/GitHub-Xiaojingkuaipao-blue?logo=github" /></a>
- <a href="[https://space.bilibili.com/51801271](https://space.bilibili.com/518012715)"><img src="https://img.shields.io/badge/哔哩哔哩-小竞快跑-pink?logo=bilibili" /></a>
+ <a href="https://space.bilibili.com/518012715"><img src="https://img.shields.io/badge/哔哩哔哩-小竞快跑-pink?logo=bilibili" /></a>
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
