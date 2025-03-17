@@ -38,7 +38,7 @@
 </p>
  
 <!-- https://github.com/badges/shields -->
-<p align="center">
+
 <!-- <a href="https://github.com/Xiaojingkuaipao"><img src="https://img.shields.io/badge/GitHub-Xiaojingkuaipao-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/51801271)"><img src="https://img.shields.io/badge/哔哩哔哩-小竞快跑-pink?logo=bilibili" /></a> -->
 <!-- <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" /> -->
